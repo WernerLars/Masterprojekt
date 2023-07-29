@@ -1,0 +1,7 @@
+datetime
+keras
+matplotlib
+mne
+numpy
+sklearn
+tensorflow>=2.8.1
